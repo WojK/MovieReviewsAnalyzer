@@ -1,6 +1,6 @@
 ﻿# MovieReviewsAnalyzer
 
-Temate projektu jest aplikacja do anlizy recenzji filmów wykorzystująca sztuczną inteligencję.  
+Tematem projektu jest aplikacja do anlizy recenzji filmów wykorzystująca sztuczną inteligencję.  
 W pierwszej części projekt skupia się na analizie sentymentów recenzji filmów, to znaczy analize wydźwięku tekstu, aby daną recenzję skategoryzować jako pozytywną bądź negatywną.
 Zostaną w tym celu wykorzystane takie modele uczenia maszynowego jak:
 - regresja logistyczna
