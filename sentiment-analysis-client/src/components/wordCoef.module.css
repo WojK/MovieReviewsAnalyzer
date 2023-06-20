@@ -1,0 +1,46 @@
+.coef-container {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  font-family: "Roboto";
+}
+
+.pos-coef {
+  width: 20%;
+  height: 300px;
+  border: solid 1px black;
+  border-radius: 10px;
+  overflow-y: scroll;
+  text-align: center;
+  padding-top: 10px;
+}
+.neg-coef {
+  padding-top: 10px;
+
+  width: 20%;
+  height: 300px;
+
+  border: solid 1px black;
+  border-radius: 10px;
+  overflow-y: scroll;
+  text-align: center;
+}
+.word-coef {
+  margin-bottom: 5px;
+  display: flex;
+  justify-content: center;
+  gap: 5%;
+}
+
+.word-coef p {
+  display: inline-block;
+  width: 50%;
+}
+
+.text-header {
+  font-family: "Roboto";
+  margin-top: 50px;
+  margin-bottom: 20px;
+
+  text-align: center;
+}
